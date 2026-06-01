@@ -74,3 +74,10 @@ streamlit run app.py
 **Jagan Satarla** *Engineering Student specializing in AI/ML* [LinkedIn](https://www.google.com/search?q=YOUR_LINKEDIN_URL) | [Portfolio](https://www.google.com/search?q=YOUR_PORTFOLIO_URL)
 
 -----
+
+## 📸 Demo Screen shots
+
+<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/2e928403-2f6f-4d33-a3fa-063db6dffd6e" />
+<img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/c864ca1a-101c-42fc-b355-81f02c6da1f7" />
+
+
