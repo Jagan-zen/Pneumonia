@@ -70,3 +70,7 @@ streamlit run app.py
 -----
 
 ## 🎓 Author
+
+**Jagan Satarla** *Engineering Student specializing in AI/ML* [LinkedIn](https://www.google.com/search?q=YOUR_LINKEDIN_URL) | [Portfolio](https://www.google.com/search?q=YOUR_PORTFOLIO_URL)
+
+-----
